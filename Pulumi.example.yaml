@@ -1,0 +1,4 @@
+name: plugin-task-attributes
+runtime: nodejs
+description: Custom Task Attributes for Twilio Flex
+main: pulumi
